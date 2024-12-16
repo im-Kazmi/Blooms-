@@ -4,11 +4,11 @@
   <p>An  open-source alternative to LemonSqueezy and Paddle</p>
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-4.9.5-blue)](https://www.typescriptlang.org/)
-  [![React](https://img.shields.io/badge/React-18.2.0-blue)](https://reactjs.org/)
-  [![Next.js](https://img.shields.io/badge/Next.js-13.4.7-blue)](https://nextjs.org/)
-  [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-3.3.2-blue)](https://tailwindcss.com/)
-  [![Prisma](https://img.shields.io/badge/Prisma-4.15.0-blue)](https://www.prisma.io/)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-blue)](https://www.typescriptlang.org/)
+  [![React](https://img.shields.io/badge/React-blue)](https://reactjs.org/)
+  [![Next.js](https://img.shields.io/badge/Next.js-blue)](https://nextjs.org/)
+  [![Tailwind CSS](https://img.shields.io/badge/Tailwind-blue)](https://tailwindcss.com/)
+  [![Prisma](https://img.shields.io/badge/Prisma-blue)](https://www.prisma.io/)
 </div>
 
 ## 🌟 Introduction
