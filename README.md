@@ -76,22 +76,22 @@ To set up your own instance of Blooms, follow these steps:
 ## 🌟 Usage
 SDK is not built yet nor the app but will be used like the following. it is just an example
 ```typescript
-import { Blooms } from 'celestialcommerce';
+import { Blooms } from 'blooms';
 
-const cc = new Blooms({
+const blooms = new Blooms({
   apiKey: 'your_api_key',
   // other configuration options
 });
 
 // Create a new product
-const product = await cc.products.create({
+const product = await blooms.products.create({
   name: 'Stardust Software',
   price: 29.99,
   currency: 'USD',
 });
 
 // Generate a license key
-const license = await cc.licenses.generate(product.id);
+const license = await blooms.licenses.generate(product.id);
 
 console.log(`New license key: \${license.key}`);
 ```
