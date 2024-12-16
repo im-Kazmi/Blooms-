@@ -1,4 +1,4 @@
-<div align="center">
+)<div align="center">
   <img src="./icon.png?height=150&width=150" alt="Blooms Logo" width="150" height="150">
   <h1>✨ Blooms ✨</h1>
   <p>An  open-source alternative to LemonSqueezy and Paddle</p>
@@ -74,9 +74,6 @@ To set up your own instance of Blooms, follow these steps:
 6. Open [http://localhost:3000](http://localhost:3000) in your browser to see the magic!
 
 ## 🌟 Usage
-
-Here's a glimpse of how to use Blooms in your project:
-
 SDK is not built yet nor the app but will be used like the following. it is just an example
 ```typescript
 import { Blooms } from 'celestialcommerce';
@@ -106,5 +103,5 @@ Blooms is open-source software licensed under the MIT license. See the [LICENSE]
 ---
 
 <div align="center">
-  <p>Crafted with ❤️ by the kazmi (for now) </p>
+  <p>Created by kazmi with ❤️ and typescript.</p>
 </div>
